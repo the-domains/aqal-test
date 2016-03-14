@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AQAL Test]]></title>
         <description><![CDATA[AQAL Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aqal-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:59:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 22:02:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aqal-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/aqal-test/42e06600-c9bc-4665-916c-998d0674ebb3/index.html</link>
+            <guid isPermaLink="false">42e06600-c9bc-4665-916c-998d0674ebb3</guid>
+            <pubDate>Mon, 14 Mar 2016 22:01:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For Investors]]></title>
             <description><![CDATA[<h1>For Investors</h1>]]></description>
-            <link>undefinedfor-investors/index.html</link>
+            <link>https://thegrid.ai/aqal-test/for-investors/index.html</link>
             <guid isPermaLink="false">8615b344-077e-4857-86fd-55a65b3d9e1b</guid>
             <pubDate>Mon, 14 Mar 2016 21:59:17 GMT</pubDate>
         </item>
